@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: JNA Dealer Program - Business Opportunities Telecommunications, Cell phones, Dialer, Dealer programs
 nav_order: 1
 description: "We Create Business Opportunities Telecommunications, Cell phones, Dialer, Dealer programs"
 permalink: /
