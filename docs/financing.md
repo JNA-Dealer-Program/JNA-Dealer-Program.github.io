@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Financing
+title: JNA Financing
 nav_order: 2
 ---
 
