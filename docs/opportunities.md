@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Opportunities
+title: JNA Dealer Opportunities
 nav_order: 1
 ---
 
